@@ -1,0 +1,5 @@
+{
+  "name": "interest_calculator",
+  "description": "A smart mobile-first loan calculator that computes interest, monthly payments, and amortization, featuring AI-powered financial insights.",
+  "requestFramePermissions": []
+}
